@@ -8,9 +8,25 @@ body {
     margin-bottom: 60px; /* Margin bottom by footer height */
 }
 
-/*.avatar {
-    max-width: 300px;
-}*/
+textarea {
+    height: 200px;
+}
+
+.imgPort {
+    width: 350px;
+    height: 250px;
+}
+
+.tag {
+    width: 350px;
+    padding: 15px 0;
+    position: absolute;
+    bottom: 15px;
+    background-color: #1ba39c;
+    color: #fff;
+    text-align: center;
+}
+
 .text-center {
     margin-bottom: 0;
 }

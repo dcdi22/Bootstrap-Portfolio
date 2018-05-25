@@ -3,6 +3,18 @@ html {
     min-height: 100%;
 }
 
+.navbar-brand {
+    font-size: 1.75rem;
+    background-color: #007faa;
+    color: #fff;
+}
+
+h1 {
+    font-size: 1.75rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #007faa;
+}
+
 body {
     background-image: url("../images/groovepaper2.png");
     margin-bottom: 60px; /* Margin bottom by footer height */
@@ -22,7 +34,7 @@ textarea {
     padding: 15px 0;
     position: absolute;
     bottom: 15px;
-    background-color: #1ba39c;
+    background-color: #007faa;
     color: #fff;
     text-align: center;
 }

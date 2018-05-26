@@ -35,13 +35,17 @@ textarea {
 
 .centered {
     position: absolute;
-    bottom: -10px;
+    bottom: -20px;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #007faa;
     width: 100%;
     text-align: center;
-    padding: 5px 0;
+    padding: 12px 0;
+}
+
+h5 {
+    font-size: medium;
 }
 
 .text-center {
@@ -59,4 +63,5 @@ textarea {
 
 footer {
     border-top: 5px solid #007faa;
+    font-size: small;
 }

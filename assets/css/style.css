@@ -52,9 +52,9 @@ h5 {
     margin-bottom: 0;
 }
 
-a {
-    color: inherit;
-}
+/*.text-white a {
+    color: #fff;
+}*/
 
 a:hover {
     color: rgb(228, 227, 227);
